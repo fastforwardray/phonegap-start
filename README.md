@@ -1,6 +1,6 @@
 # Hello World PhoneGap Application
 
-> A Hello World application built with PhoneGap
+> A gps test application built with PhoneGap by fastforwardray
 
 ## Usage
 
